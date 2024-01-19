@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+  <img src="https://github.com/mariocuomo/mariocuomo.github.io/blob/master/images/me_give.png" width="180"></img><br>
+</div>
+
 mccybersec blog is an initiative by [Mario Cuomo](https://github.com/mariocuomo/) - Cloud Solution Architect Security at Microsoft.
 
 This blog will cover these topics in the Microsoft ecosystem by leveraging technologies such as Defender XDR (Defender for Endpoint, Defender for Cloud (and Apps), Defender for Identity and Defender for Office 365), Sentinel and Security Copilot.
